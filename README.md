@@ -27,7 +27,7 @@ The original raw images can be inserted optionaly for visualisation but are not 
 
 
 **Geometrical reconstruction of Cell Nuclei** (Data from [dsb2018](https://www.kaggle.com/c/data-science-bowl-2018))
-![](Figures_readme/DW_2d_nuclei.png "Title")
+![](Figures_readme/DW_2d_nucleus.png "Title")
 
 
 ---

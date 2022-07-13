@@ -16,7 +16,7 @@ The original raw images can be inserted optionaly for visualisation but are not 
 ---
 ## Installation
 
-`pip install delaunay-watershed-2d==0.1.0`
+`pip install delaunay-watershed-2d`
 
 ---
 ## 2D Library

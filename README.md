@@ -19,7 +19,8 @@ The original raw images can be inserted optionaly for visualisation but are not 
 `pip install delaunay-watershed-2d`
 
 ---
-## 2D Library
+
+## Examples
 
 
 **Geometrical reconstruction of C.Elegans Embryo** (Data from [cShaper](cao13jf.github.io/cshaperpage/))
@@ -28,7 +29,6 @@ The original raw images can be inserted optionaly for visualisation but are not 
 
 **Geometrical reconstruction of Cell Nuclei** (Data from [dsb2018](https://www.kaggle.com/c/data-science-bowl-2018))
 ![](Figures_readme/DW_2d_nucleus.png "Title")
-
 
 ---
 

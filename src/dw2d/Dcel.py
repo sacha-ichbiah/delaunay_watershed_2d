@@ -533,7 +533,12 @@ def compute_angles(Faces_list):
 
     sorted_dict = {}
     for key in sorted(dict_angles.keys()):
-        sorted_dict[key] = dict_angles[key]        
+        sorted_dict[key] = dict_angles[key] 
+
+    for key in sorted(dict_angles.keys()):
+        a,b,c = key
+        sorted_dict[(c,a,b)] = dict_angles[key] 
+
     return(sorted_dict)
 
 

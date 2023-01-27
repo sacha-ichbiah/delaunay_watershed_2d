@@ -1,5 +1,3 @@
-### Delaunay
-
 # Delaunay-Watershed 2D
 
 <img src="Figures_readme/Figure_logo_white_arrow.png" alt="drawing" width="300"/>
@@ -107,7 +105,6 @@ If you use this tool, please cite the associated preprint:
 Do not hesitate to contact Sacha Ichbiah and Hervé Turlier for practical questions and applications. 
 We hope that **Delaunay-Watershed** could help biologists and physicists to shed light on the mechanical aspects of early development.
 
----
 
 
 

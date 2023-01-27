@@ -57,7 +57,6 @@ Mesh.compute_curvatures()
 The first step is to convert your instance segmentation into a multimaterial mesh
 
 - `geometry_reconstruction_2d(labels,min_dist = 4 ,interpolation_points=10,expansion_labels = 0,original_image = None)`: 
-We infer tensions ratios by inverting junctional equilibrium relations
     - `Mesh` is a `DCEL_Data` object
     - `min_dist` defines the minimal distance, in pixels, between two points used for the delaunay-triangulation
     - `interpolation_points` the number of sampling points used to estimate the value of the euclidean-distance-transform on an edge during the construction of the graph.

@@ -90,11 +90,11 @@ A `DCEL_Data` object can be used to analyze the geometry:
 ---
 ### Biological use-cases
 #### Geometrical reconstruction of C.Elegans Embryo
-(Data from [cShaper](cao13jf.github.io/cshaperpage/))
+Data from [cShaper](cao13jf.github.io/cshaperpage/)
 ![](Figures_readme/DW_2d_celegans.png "Title")
 
 #### Geometrical reconstruction of Cell Nuclei
-**Geometrical reconstruction of Cell Nuclei** (Data from [dsb2018](https://www.kaggle.com/c/data-science-bowl-2018))
+Data from [dsb2018](https://www.kaggle.com/c/data-science-bowl-2018)
 ![](Figures_readme/DW_2d_nucleus.png "Title")
 
 ---
